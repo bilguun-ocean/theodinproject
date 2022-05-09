@@ -1,56 +1,111 @@
-### Additional Community Expectations
-These tips should help you get the most out of your experience in our Discord community.
+### Community Rules
 
-#### Ask detailed and specific questions
+Our Discord server is a very active community of people from all over the world and is moderated by a team of volunteers. Our moderation team has 3 different [roles](https://github.com/TheOdinProject/top-meta/blob/main/about/discord-roles.md): Core, Maintainer, and Moderator.
 
-We encourage questions, so do not worry about asking a "stupid question". However, it is important that you [Help Yourself Before Asking Others](/before_asking) and follow our tips on [How to Ask a Technical Question](/how_to_ask). In addition, to ensure that everyone has the same expectations, below are some specific guidelines on asking questions:
+Our moderation team is committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, neurodivergence, personal appearance, body, race, ethnicity, age, religion, nationality, or other similar characteristic.
 
-<div class="lesson-content__panel" markdown="1">
+We expect everyone to handle themselves in a professional manner and follow the spirit of our community rules. The moderation team enforces our rules through a zap system using the Dyno bot. The zaps are private to the user and will be communicated through direct messages or private threads.
 
--   **Ask questions in the proper channel.** We have specific channels for every section in our curriculum, so please find the best one to ask your question. While asking questions regarding The Odin Project or our curriculum is allowed in our #odin-general channel, you should seek a more appropriate channel if there is already an active conversation.
+If you are given a warning by our moderation team, please consider our point of view and be willing to change without taking it personally or being argumentative. Our rules are very similar to the expectations in professional workplaces, so this will better prepare you to interact professionally with your future teammates.
 
--   **Stay online after asking a question.** Most of the time, answers are not simple and straight-forward. Therefore, you should be prepared to stick around and discuss it with those trying to help.
+Our rules have different levels of severity and zaps are given at the discretion of the moderator team. Zaps accumulate over time if rules continue to be broken to ensure the well-being of our entire community.
 
--   **Wait patiently for a response.** Even though our community is fairly active, not all questions will be answered right away. While you are waiting, make sure that you have provided a detailed question and continue trouble-shooting. If your post is getting buried and/or if you have been waiting for an hour, you can direct people to your question.
+10 total zaps result in a ban.
 
--   **Do not ask to ask a question.** You have permission to ask questions, provided that it falls within our rules. We know you mean well, but it is somewhat inconsiderate to make people wait for your actual question. For more information, please read [Don't ask to ask, just ask](https://dontasktoask.com/).
+#### 0 Zaps (Heads Up)
 
--   **Use external services to share code.** Posting small snippets of code is acceptable, but anything longer than a few lines is hard to read and parse. Use [CodePen](https://codepen.io/), [Replit](https://replit.com/), or [CodeSandbox](https://codesandbox.io/) to share longer snippets of code. If you want to share a text version of a long error message, use [Pastebin](http://pastebin.com/) instead.
+* Dog piling/short circuiting a teaching moment (E.g jumping in to help when someone else is already helping out, giving an answer when someone is leading someone to think critically about their problem)
+* Asking about or encouraging the use of Windows
+* "Chat bombing", aka posting many short (ususally 4-5 or fewer words) messages in rapid succession, repeatedly sending parts of thoughts (incomplete, non-standalone sentences or fragments) in new messages. (Use shift + enter and send ONE message where possible or edit your message)
+* Discussing mental health issues in depth or seeking mental health help from other users
+* Inappropriate User Profile - Profile Picture, Username/Nickname, Bio (E.g. suggestive or inappropriate memes)
+* "Crossposting", aka posting the same message to different channels (asking for help in multiple channels at once)
 
--   **Use screenshots to share other relevant information.** When you need to share an image of your terminal window or an error message, use a screenshot tool on your computer. If you are not familiar with this tool, you should research it using your favorite search engine. You should never take a photo of your screen with your phone, as that will provide a lower quality image that can be difficult for others to actually read.
+#### 1 Zap (WARNING)
 
--   **Do not share files that require a user to download it.** It is impossible to tell whether a file contains malware or has some other malicious intent. Therefore, you should never share a file that requires users to download and open it on their own device.
+Minor violations such as:
 
-</div>
+* A second infraction of any 0 Zap issues above
+* "Mini-modding"
+  * Enforcement of any of the rules instead of notifying moderators (see example below)
+  * Please leave moderation action to the moderators
+  * Use ModMail to report rule breaking or if you see something you’re unsure about in the community
+* Asking for advice/help on homework or personal projects, even if the topic is covered by our curriculum
+* Mild unprofessionalism:
+  * Drug related conversation
+  * Treating others on the server disrespectfully
+  * Relationship advice
 
-#### Be professional and have good etiquette
+#### 2 Zaps (WARNING)
 
-We expect everyone to handle themselves professionally and treat others respectfully, no matter how old you are or how much experience you have. To ensure that everyone has the same expectations, below are some specific guidelines:
+Medium severity violations such as:
 
-<div class="lesson-content__panel" markdown="1">
+* Suggesting piracy
+* Unsolicited pings/DM/friend request
+* Political or religious topics
+* Mild toxicity:
+  * Directed insults
+  * Provoking/baiting other users
+  * Passive aggression
+  * Naming & shaming
+* Self promo without permission (ask with Modmail)
+  * Do not share resources you have created solely for personal or monetary gain
+  * Examples: "Fill out my survey" (does not help the goals of Odin), "Join my boot camp/program/server" (Could mislead learners), "Why PHP is superior" (unrelated blog post), job recruitment
 
--   **Do not post personal information.** This applies to all sensitive information, as well as **your age**.
+#### 5 Zaps (SEVERE WARNING)
 
--   **Respect that people will have differences of opinion.** Every design or implementation choice carries a trade-off and numerous costs. There is seldom a single right answer.
+High severity violations such as:
 
--   **Be constructive, not destructive.** When providing feedback to another user, make sure you provide constructive feedback rather than feedback that is negative for the sake of being negative. Telling someone that their project is terrible or that they don't know how to write code doesn't provide them any actual help.
+* Posting about any illegal activities
+* Publicly arguing about receiving moderation activity after being asked to take it to ModMail/discuss privately
+* Excessive toxicity (targeted harassment, inciting drama, aggressively arguing purposefully, etc.)
+* Plagiarism (for example: Stealing other learners' work)
 
--   **Remember the Human.** Behind every username there is a person with feelings, so be kind to everyone! If you wouldn't say it out loud, or wouldn't want someone else saying it to you, don't post it.
+#### 10 Zaps (Immediate Ban)
 
--   **Be gracious during misunderstandings.** When misunderstandings happen, choose to be gracious instead of argumentative. Give others the benefit of the doubt during text-based communication because you can not take into account body language, cultural differences, or other contextual cues.
+Extreme severity violations such as:
 
-</div>
+* Bigotry (racism, homophobia, hate speech etc)
+* Continued harassment
+* NSFW or otherwise highly offensive imagery in posts, profile pictures, or usernames
+* Spamming
+  * Discord Nitro spam
+  * Self promotion (joining just to promote material, no prior chat history)
+  * Repeated random nonsensical messages (copypasta)
+* Doxxing
+* Piracy
+* Any other behavior deemed unacceptable and deserving of a ban by the moderation team, such as not correcting “[help vampire](https://slash7.com/2006/12/22/vampires/)” behaviors.
 
-#### Other general community tip
+#### Decay Example
 
-As you participate in our community, you will see a few topics that come up fairly regulary, such as the following:
+Zaps decay at a rate of 1 zap per week. E.g., if you receive 5 zaps on a Friday, the following Friday you will have 4, the Friday after that you will have 3, and so forth. This means higher level infractions remain on record for a longer period of time, and more strongly jeopardize your ability to participate in the server if rules are continued to be broken.
 
-<div class="lesson-content__panel" markdown="1">
+#### Zap Examples
 
--   **Do not compare time with others.** When people try to compare how much time it takes even to do TOP or even just one project, it tends to lead to feelings of inadequacy or a false sense of accomplishment. Everyone has different life circumstances and project completion expectations, so we discourage comparing time and instead focus on learning the material well.
+**Repeated offenses increase to the next penalty tier.**
 
--  **Guide people to their own answer.** When helping another user, try to steer them in the right direction instead of providing the answer. This tactic helps them build the skills they need to solve future problems. If you would like more tips on helping others, please read [How to Help Others Solve Coding Problems](https://github.com/TheOdinProject/blog/wiki/How-to-Help-Others-Solve-Coding-Problems).
+**Scenario:**
 
--   **Provide context when sharing a resource.** When posting a link to an article or youtube video, include **why** you are sharing it. Otherwise it will be marked as spam and deleted.
+1. Kierra is warned about dogpiling once, which earns her zero zaps as it is a first warning for a minor violation.
+2. Two days later, Kierra is warned about dogpiling again, and earns a single zap as she has already been warned. She now has 1 zap.
+3. The next day, Kierra is once again warned about dogpiling. This now earns her two zaps for a total of 3 zaps.
+4. The day after that, Kierra is warned about dogpiling and earns 5 zaps, for a total of 8 zaps.
+5. The next time Kierra is warned about dogpiling, she earns 10 zaps and is now banned from the server as she has accumulated 18 zaps.
 
-</div>
+
+**What is mini-modding?**
+
+While we love having a community that can hold one another accountable and point individuals to the right direction, ultimately moderation should be done by moderators, not regular users, so we can maintain a welcoming and friendly chat environment. Mini-modding means that a non-moderator user is enforcing the rules or speaking for the team of which they are not a part of. When individuals who are not part of the moderation team or who do not maintain the platform begin enforcing rules or speaking for the team, it is up to the team to mitigate any public arguments that often occur, or to correct users who have spoken out of turn for the team.
+
+**Scenario:**
+
+1. Darius posts a question about Rock Paper Scissors in #odin-general and in #javascript-help-1
+2. Jacob replies to Darius saying, "No crossposting, see the #rules"
+3. Darius is now upset because of the terseness of Jacob's reply and the two are now arguing.
+
+Jacob should have instead reported this to @ModMail so the proper individuals can notify Darius of the rules in private.
+
+This is not a comprehensive list of all possible scenarios and zaps are made at the discretion of the moderation team if particular behaviors are inappropriate but not otherwise explicitly covered. Please DM @ModMail if you would like to discuss this matrix or any moderation activity (whether you are on the receiving end or not).
+
+#### Regarding the Moderation Team
+The moderation team, as well as the Core and Maintainer team, are also subject to the rules. If you see any issues amongst the team, please report it to @ModMail with a link to the issue and brief description of what you feel may have been violated. *Please do not argue publicly, take it to the correct channels of communication to deal with this.* Please note that the entire TOP team has visibility on ModMail. If it makes you more comfortable, you may DM one member of the team with your concerns, or email the team at theodinproject@gmail.com.
